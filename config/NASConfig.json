@@ -1,0 +1,13 @@
+{
+  "MaxLayers": 50,
+  "MaxInitLayers": 1,
+  "timeLength": 168,
+  "IterationEachTime": 5,
+  "MonitorIterations": 18,
+  "NetPoolSize": 1,
+  "BATCH_SIZE": 256,
+  "EPISODE": 1,
+  "GPU": true,
+  "OUT_DIR": "../log",
+  "SQL_FILE": "../log/model.db"
+}

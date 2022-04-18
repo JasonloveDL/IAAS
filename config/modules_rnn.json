@@ -1,0 +1,17 @@
+{
+  "dense": {
+    "out_range": [4, 6, 12, 16, 24, 32, 48, 64, 80, 108, 144],
+    "editable": true
+  },
+  "rnn":{
+    "hidden_size": [4, 6, 12, 16, 24, 32, 48, 64, 80, 108, 144],
+    "editable": true
+  },
+  "conv": {
+    "kernel_size": [3],
+    "stride": [1],
+    "padding": [1],
+    "out_channels": [4, 6, 12, 16, 24, 32, 48, 64, 80, 108, 144],
+    "editable": true
+  }
+}
